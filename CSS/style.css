@@ -1,0 +1,147 @@
+body {
+  margin-top: 20px 0px;
+}
+
+.top-container {
+  position: relative;
+  background-color: #395B64;
+  height: 300px;
+  width: 210px;
+  padding: 30px;
+}
+
+.midlle-container1 {
+  background-color: #C4DFAA;
+  position: relative;
+  left: 0px;
+  bottom: 15px;
+  height: 300px;
+  width: 230px;
+  padding: 20px;
+  padding-bottom: 20px;
+}
+
+.midlle-container2 {
+  background-color: #C4DFAA;
+  display: inline-block;
+  position: relative;
+  left: 280px;
+  bottom: 515px;
+  height: 458px;
+  width: 400px;
+  padding: 20px;
+}
+
+.bottom-container {
+  background-color: #C4DFAA;
+  display: inline-block;
+  position: relative;
+  left: 282px;
+  bottom: 580px;
+  height: 458px;
+  width: 400px;
+  padding: 20px;
+}
+
+.image1 {
+  width: 223px;
+  height: 300px;
+  border-radius: 30%;
+  position: relative;
+  left: 30px;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: Trebuchet MS, sans-serif;
+  text-align: left;
+  position: relative;
+  bottom: 300px;
+  left: 245px;
+  width: 500%;
+  color: #395B64;
+}
+
+h4 {
+  position: relative;
+  bottom: 315px;
+  left: 250px;
+  font-size: 25px;
+  font-family: Goudy Old Style, serif;
+}
+
+h3 {
+  font-family: papyrus, sans-serif;
+}
+
+h2 {
+  font-family: Goudy Old Style, serif, sans-serif;
+}
+
+hr {
+  position: relative;
+  bottom: 170px;
+  left: 135px;
+  width: 81%;
+  background-color: #395B64;
+}
+
+.sekolah {
+  font-family: papyrus, sans-serif;
+  line-height: 2;
+}
+
+.kemampuan {
+  font-family: papyrus, sans-serif;
+  line-height: 2;
+}
+.btn1 {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 10px;
+  background: #2771a3;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn1:hover {
+  background: #61bffa;
+  text-decoration: none;
+}
+
+.btn2 {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 10px;
+  background: #2771a3;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn2:hover {
+  background: #61bffa;
+  text-decoration: none;
+}
+
+.btn3 {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 10px;
+  background: #2771a3;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn3:hover {
+  background: #61bffa;
+  text-decoration: none;
+}
